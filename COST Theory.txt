@@ -1,0 +1,132 @@
+1. Explain merits or demerits of mean
+
+Answer :-
+
+Certainly, here are the bullet points summarizing the merits and demerits of the mean:
+
+### Merits:
+
+- Easy to understand and compute.
+- Sensitive to outliers, providing insights into extreme values.
+- Widely used in parametric statistics for hypothesis testing and estimating population parameters.
+
+### Demerits:
+
+- Highly influenced by outliers, leading to potential distortion.
+- Not robust to skewed distributions or non-normal data.
+- Sensitivity to sample size changes, particularly with small samples.
+- Limited applicability in certain situations, such as with categorical or ordinal data.
+
+2. Define skewness and it's types
+
+Answer :-
+
+Sure, here's a simple explanation of skewness and its types in bullet points:
+
+- **Skewness**: Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable.
+  
+- **Types of Skewness**:
+
+  1. **Positive Skewness (Right Skewness)**:
+     - Also known as right skewness.
+     - The distribution tail extends more to the right side.
+     - The mean is typically greater than the median.
+     - The mode is usually less than the median and mean.
+
+  2. **Negative Skewness (Left Skewness)**:
+     - Also known as left skewness.
+     - The distribution tail extends more to the left side.
+     - The mean is typically less than the median.
+     - The mode is usually greater than the median and mean.
+
+  3. **Zero Skewness**:
+     - Also known as symmetrical distribution.
+     - The distribution is balanced, with equal tails on both sides.
+     - The mean, median, and mode are all equal.
+  
+Skewness helps to understand the shape and symmetry of the distribution of data. Positive skewness indicates a longer right tail, while negative skewness indicates a longer left tail.
+
+3. Explain hypothesis and it's  types
+
+Answer:-
+
+Certainly, here's a simple explanation of hypothesis and its types in bullet points:
+
+- **Hypothesis**:
+  - In statistics, a hypothesis is a statement or assumption about a population parameter.
+  - It's used for making predictions or testing relationships between variables.
+
+- **Types of Hypotheses**:
+
+  1. **Null Hypothesis (H0)**:
+     - Represents the default or initial assumption.
+     - Assumes no effect, no difference, or no relationship between variables.
+     - Often denoted as "H0".
+
+  2. **Alternative Hypothesis (H1 or Ha)**:
+     - Contradicts the null hypothesis.
+     - Suggests there is an effect, difference, or relationship between variables.
+     - Comes in different forms based on the researcher's hypothesis:
+       - **One-Tailed (Directional)**: Specifies a direction of effect (e.g., greater than or less than).
+       - **Two-Tailed (Non-Directional)**: Does not specify a direction; only indicates a difference exists.
+
+- **Purpose of Hypothesis Testing**:
+  - To assess the validity of the null hypothesis.
+  - To determine whether the observed data support the alternative hypothesis.
+  - To make decisions based on statistical evidence.
+
+Hypothesis testing is a fundamental concept in statistics, helping researchers draw conclusions about populations based on sample data.
+
+4. Define type 1 error and type 2 error
+
+Answer:-
+
+Certainly! Here's a simple explanation of Type I and Type II errors in bullet points:
+
+- **Type I Error**:
+  - Also known as a "false positive" or "alpha error."
+  - Occurs when the null hypothesis (H0) is incorrectly rejected when it is actually true.
+  - Represents the situation where we detect an effect or difference when there is none.
+  - The probability of committing a Type I error is denoted by the significance level (α).
+
+- **Type II Error**:
+  - Also known as a "false negative" or "beta error."
+  - Occurs when the null hypothesis (H0) is incorrectly accepted when it is actually false.
+  - Represents the situation where we fail to detect an effect or difference when there is one.
+  - The probability of committing a Type II error is denoted by the symbol β.
+
+Understanding Type I and Type II errors is crucial in hypothesis testing, as they reflect the potential errors in decision-making based on statistical tests.
+
+5. Explain correlation and type of correlation
+
+Answer:-
+
+Certainly! Here's an explanation of correlation and its types in simple bullet points:
+
+- **Correlation**:
+  - Correlation measures the strength and direction of the relationship between two variables.
+  - It quantifies how much one variable changes with respect to changes in another variable.
+  - Correlation does not imply causation; it only indicates the degree of linear association between variables.
+
+- **Types of Correlation**:
+
+  1. **Positive Correlation**:
+     - Occurs when an increase in one variable is associated with an increase in the other variable.
+     - The variables move in the same direction.
+     - Correlation coefficient (r) value is positive, ranging from 0 to +1.
+     - Example: As the temperature increases, ice cream sales also increase.
+
+  2. **Negative Correlation**:
+     - Occurs when an increase in one variable is associated with a decrease in the other variable.
+     - The variables move in opposite directions.
+     - Correlation coefficient (r) value is negative, ranging from -1 to 0.
+     - Example: As the amount of rainfall increases, the number of sunny days decreases.
+
+  3. **No Correlation (Zero Correlation)**:
+     - Occurs when there is no discernible relationship between the variables.
+     - Changes in one variable are not associated with changes in the other variable.
+     - Correlation coefficient (r) value is close to 0.
+     - Example: There is no correlation between shoe size and IQ score.
+
+Understanding correlation and its types helps in analyzing the relationship between variables and making predictions based on their association.
+
